@@ -28,6 +28,8 @@ namespace Manoj.TestScript
             HomePage hp = new HomePage(driver);
             HomeDecor hd = new HomeDecor(driver);
 
+            Console.WriteLine("jl");
+
         }
     }
 }
